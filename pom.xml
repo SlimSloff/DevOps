@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.demo</groupId>
-	<artifactId>time_sheet_Dev_Ops</artifactId>
+	<artifactId>timesheet_devops</artifactId>
 	<version>1.0</version>
-	<name>time_sheet_Dev_Ops</name>
+	<name>timesheet_devops</name>
 	<description>hebergement</description>
 	<properties>
 		<java.version>1.8</java.version>
@@ -46,6 +46,7 @@
 		</dependency>
 		
 	       </dependencies>
+	       
 	
 
 	<build>
